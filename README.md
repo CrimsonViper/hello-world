@@ -1,2 +1,2 @@
 # hello-world
-Dont mind me, I'm just another repository
+Do mind me! I'm not just another repository!
